@@ -4,4 +4,5 @@ The DnD Generatinator - A multipurpose tool for DnD Dungeon Masters used for ran
 Currently supported inputs:
 
 npc - Creates an NPC with gender and race
+
 exit - Exits
