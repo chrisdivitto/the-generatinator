@@ -2,6 +2,12 @@
 
 import random
 
+# Hello! Welcome to this program! 
+# If you are a seasoned programmer that has somehow found your way to this project, 
+# it'd probably take you 2 seconds to realize I have no idea what I am doing.
+# This is correct. My code is awful but as of now, it works.
+# This tool is made specifically for my use, but maybe it could help you too
+# Enjoy!
 
 gender=random.randint(0,1)
 if gender ==0:
